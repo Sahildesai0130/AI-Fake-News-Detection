@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -81,3 +82,6 @@ if check:
             st.error("🚨 This news appears to be FAKE")
         else:
             st.success("✅ This news appears to be REAL")
+=======
+
+>>>>>>> a0782c34c1fd423a4aa64d0e316125f97b28f9b5

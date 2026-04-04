@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -20,3 +21,6 @@ y = data["label"]
 sns.countplot(x=y)
 plt.title("Fake vs Real News Distribution")
 plt.show()
+=======
+
+>>>>>>> a0782c34c1fd423a4aa64d0e316125f97b28f9b5
